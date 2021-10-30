@@ -1,5 +1,3 @@
-package Exercises;
-
 public class PalindromeCheck {
     public static boolean isPalindrome(String str){  
         char ch;
